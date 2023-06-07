@@ -1,0 +1,81 @@
+body {
+    background-image: url(how-to-make-orange-colour-paint-1200x675.jpg);
+}
+
+.s1 {
+    position: fixed;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    line-height: 60px;
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+    padding: 0;
+    z-index: 1;
+}
+
+.conter {
+    background-color: rgb(0, 0, 0);
+    width: 520px;
+    height: 320px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px 0 0 10px;
+    position: relative;
+    border-radius: 20px;
+}
+
+.ayna {
+    background-image: url(channels4_profile.png);
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border-radius: 50%;
+}
+
+.qara {
+    background-image: url(artworks-000092743721-hps64u-t500x500.jpg);
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.ayna2 {
+    background-image: url(eb07e46d7d62273365a89f4318adedbd.1000x1000x1.jpg);
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 50px;
+}
+.dedebaba{
+    background-image: url(msg6059173903-1187.jpg);
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+    right: 50px;
+}
+.temma{
+    background-image: url(temma.jpg);
+    width: 100px;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 10px;
+    right: 200px;
+}
